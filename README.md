@@ -9,7 +9,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## For Understand this whole code click on this <a href="https://www.mtitsolutions.in/2020/07/laravel-image-upload.html" target="_blank">Laravel Image Upload</a>
+## For Understand this whole code click on this <a href="https://www.mtitsolutions.in/2020/07/laravel-image-upload.html" target="_blank">Laravel Image Upload DOC Step By Step</a>
 
 ## About Laravel
 
