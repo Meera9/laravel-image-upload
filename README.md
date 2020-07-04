@@ -1,6 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-For Understand this whole code click on this <a href="" target="_blank">https://www.mtitsolutions.in/2020/07/laravel-image-upload.html</a>
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -8,6 +8,8 @@ For Understand this whole code click on this <a href="" target="_blank">https://
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+## For Understand this whole code click on this <a href="" target="_blank">https://www.mtitsolutions.in/2020/07/laravel-image-upload.html</a>
 
 ## About Laravel
 
